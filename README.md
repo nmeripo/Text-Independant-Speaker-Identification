@@ -1,5 +1,5 @@
 # Text Independant Speaker Identification
-Implementation of Google Inc.'s GE2E 
+Implementation of Google Inc's GE2E 
 
 ### Dataset
 Get __VoxCeleb1 Dataset__ from [__here__](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)
