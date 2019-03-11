@@ -1,4 +1,4 @@
-# Text-Independant-Speaker-Identification
+# Text Independant Speaker Identification
 Implementation of Google AI's GE2E 
 
 ### Dataset
