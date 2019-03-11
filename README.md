@@ -8,7 +8,7 @@ Get __QUT-NOISE Database__ from [__here__](https://research.qut.edu.au/saivt/dat
 
 ### TODO
 * Implementing Inference
-* Implementing 
+* Implementing EER
 * Comments/Documentation
 * Unknown Noise & SNR Analysis
 * Tensorboard Integration
