@@ -2,6 +2,6 @@
 Implementation of Google AI's GE2E 
 
 ### Dataset
-VoxCeleb1 Dataset from [here](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)
+Get __VoxCeleb1 Dataset__ from [__here__](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)
 
-QUT-NOISE Database from [here](https://research.qut.edu.au/saivt/databases/qut-noise-databases-and-protocols/)
+Get __QUT-NOISE Database__ from [__here__](https://research.qut.edu.au/saivt/databases/qut-noise-databases-and-protocols/)
