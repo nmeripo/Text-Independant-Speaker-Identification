@@ -7,9 +7,10 @@ Get __VoxCeleb1 Dataset__ from [__here__](http://www.robots.ox.ac.uk/~vgg/data/v
 Get __QUT-NOISE Database__ from [__here__](https://research.qut.edu.au/saivt/databases/qut-noise-databases-and-protocols/)
 
 ### TODO
+* Implement gradient scaling and gradient clipping
 * Upload weights
-* Implementing Inference
-* Implementing EER
+* Implement Evaluation
+* Implement EER
 * Comments/Documentation
 * Unknown Noise & SNR Analysis
 * Tensorboard Integration
