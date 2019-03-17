@@ -6,12 +6,16 @@ Get __VoxCeleb1 Dataset__ from [__here__](http://www.robots.ox.ac.uk/~vgg/data/v
 
 Get __QUT-NOISE Database__ from [__here__](https://research.qut.edu.au/saivt/databases/qut-noise-databases-and-protocols/)
 
+#### Tensorboard visualization
+```bash
+tensorboard --logdir runs
+```
 ### TODO
-* Implement gradient scaling and gradient clipping
+* ~~Implement gradient scaling and gradient clipping~~
 * Upload weights
 * Implement Evaluation
 * Implement EER
-* Comments/Documentation
+* ~~Comments/Documentation~~
 * Unknown Noise & SNR Analysis
-* Tensorboard Integration
+* ~~Tensorboard Integration~~
 
