@@ -12,7 +12,7 @@ tensorboard --logdir runs
 ```
 #### Results
 ```bash
-EER = 0.473541887592789
+EER = 0.4735
 ```
 
 ### TODO
