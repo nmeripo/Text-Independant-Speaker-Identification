@@ -11,7 +11,9 @@ Get _QUT-NOISE Database_ from [__here__](https://research.qut.edu.au/saivt/datab
 tensorboard --logdir runs
 ```
 #### Results
+```bash
 EER = 0.473541887592789
+```
 
 ### TODO
 * ~~Implement gradient scaling and gradient clipping~~
