@@ -1,4 +1,4 @@
-# Text Independant Speaker Identification
+# Text Independant Speaker Verification
 Implementation of Google's [__GE2E__](https://arxiv.org/pdf/1710.10467.pdf) 
 
 ### Dataset
@@ -10,11 +10,14 @@ Get _QUT-NOISE Database_ from [__here__](https://research.qut.edu.au/saivt/datab
 ```bash
 tensorboard --logdir runs
 ```
+#### Results
+EER = 0.473541887592789
+
 ### TODO
 * ~~Implement gradient scaling and gradient clipping~~
 * ~~Tensorboard Integration~~
 * ~~Comments/Documentation~~
-* Upload weights
+~~* Upload weights~~
 * Implement Evaluation
 * Implement EER
 * Unknown Noise & SNR Analysis
